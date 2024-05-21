@@ -1,0 +1,30 @@
+.TrendCard {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background-color: var(--cardColor);
+  padding: 2rem;
+  border-radius: 14px;
+}
+
+.trend {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 1rem;
+}
+.sharebtn {
+  background-color: var(--orange);
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 1rem;
+}
+.sharebtn:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+  cursor: pointer;
+}

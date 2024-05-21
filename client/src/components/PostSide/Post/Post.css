@@ -1,0 +1,32 @@
+.PostReact {
+  display: flex;
+  gap: 1rem;
+  padding: 4px 10px;
+}
+.likes {
+  padding: 4px 10px;
+}
+.Post {
+  width: 100%;
+  padding: 12px 2px;
+  align-items: start;
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--cardColor);
+  border-radius: 15px;
+  gap: 0.7rem;
+}
+.Post > img {
+  width: 96%;
+  height: 20rem;
+  border-radius: 10px;
+  align-self: center;
+}
+
+.PostsData {
+  display: flex;
+  padding: 4px 10px;
+  gap: 3px;
+  margin-bottom: 1rem;
+}

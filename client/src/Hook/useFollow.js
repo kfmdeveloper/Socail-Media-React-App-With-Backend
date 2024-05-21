@@ -1,0 +1,1 @@
+const useFollowUser = async (id) => {};

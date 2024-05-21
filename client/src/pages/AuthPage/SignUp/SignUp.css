@@ -1,0 +1,66 @@
+.SiggnUp {
+  height: 28rem;
+  width: 20rem;
+  margin-left: 55px;
+}
+.SingTop {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.container {
+  height: 33rem !important;
+}
+.fields2 {
+  width: 270px;
+  padding: 8px 7px;
+  outline: none;
+  background-color: rgb(254, 254, 254);
+  border: none;
+}
+.picon {
+  cursor: pointer;
+}
+.ErrorIcon {
+  margin-left: 14.5rem;
+}
+
+.fields input {
+  width: 270px;
+  outline: none;
+  background-color: rgb(254, 254, 254);
+  border: none;
+  background-color: transparent;
+}
+.btnSign {
+  padding: 6px 100px;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+}
+.btnSign2 {
+  padding: 6px 100px;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  background-color: red;
+}
+.btnSign2:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.8s;
+}
+.btnSign:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+.loggin {
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+  background-color: rgb(255, 15, 15);
+}
+.loggin2 {
+  border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px;
+  background-color: rgb(255, 15, 15);
+}
